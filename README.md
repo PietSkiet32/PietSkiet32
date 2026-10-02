@@ -1,6 +1,6 @@
 # Reinhardt Scholtz
 
-Operations and analytics leader who builds hands-on with AI. I take products from idea to App Store with Claude Code, Cursor and Windsurf. My code stays in private repos.
+Operations and analytics leader who builds hands-on with AI: apps, automations and reports, using Claude Code, Cursor, Windsurf, model APIs and MCP tools. My code stays in private repos.
 
 ### iOS apps
 
